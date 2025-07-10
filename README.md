@@ -6,7 +6,7 @@
   <h2>🛠️ Tech Stacks</h2>
   <br/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <br/>
@@ -28,18 +28,16 @@
   <a href="https://devkdh.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
   </a>
-  <a href="https://kimdonghyuk0.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0b4693?style=flat-square&logo=GitHub Pages&logoColor=white"/>
-  </a>
 </div>
 
 <br/><br/>
 
 <div align="center">
   <h2>🏅 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kimdonghyuk0&show_icons=true&theme=tokyonight&bg_color=00000001"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kimdonghyuk0&show_icons=true&theme=radical&hide_border=true&bg_color=00000000"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kimdonghyuk0&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kimdonghyuk0&theme=radical&hide_border=true&background=00000000"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimdonghyuk0&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimdonghyuk0&layout=compact&theme=radical&hide_border=true&bg_color=00000000"/>
 </div>
+
