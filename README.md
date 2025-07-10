@@ -24,7 +24,7 @@
   <br/>
 
   <a href="mailto:kdh367036@naver.com" target="_blank">
-    <img src="https://img.shields.io/badge/Naver Mail-kdh367036@naver.com-03C75A?style=flat-square&logo=maildotru&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Naver Mail-kdh367036@naver.com-000000?style=flat-square&logo=maildotru&logoColor=white"/>
   </a>
   <br>
   <a href="https://devkdh.tistory.com/" target="_blank">
