@@ -23,15 +23,16 @@
   <h2>🧑‍💻 Contact Me</h2>
   <br/>
 
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <div style="display: flex; justify-content: center; gap: 15px;">
     <a href="mailto:kdh367036@naver.com" target="_blank">
-      <img src="https://img.shields.io/badge/Naver Mail-kdh367036@naver.com-000000?style=flat-square&logo=maildotru&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=maildotru&logoColor=white" height="30"/>
     </a>
     <a href="https://devkdh.tistory.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Tistory Blog-devkdh.tistory.com-000000?style=flat-square&logo=Tistory&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=Tistory&logoColor=white" height="30"/>
     </a>
   </div>
 </div>
+
 
 <br/><br/>
 
