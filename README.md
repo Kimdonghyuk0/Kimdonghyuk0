@@ -8,10 +8,10 @@
 <div>
   <details>
     <summary>[2025. 05. 30] 한성대학교 캡스톤디자인 Qualcomm 기업연계 프로젝트 어플리케이션 부문 <strong>우수상</strong></summary>
-    <img width="1199" height="1640" alt="KakaoTalk_20250711_164850663" src="https://github.com/user-attachments/assets/446a897c-3d2d-4008-9b48-d496a4d1f5f0" width="100"/>
-
+    <img src="https://github.com/user-attachments/assets/446a897c-3d2d-4008-9b48-d496a4d1f5f0" width="400"/>
   </details>
 </div>
+
 
 <h2>👥 Team Projects</h2>
 <p>2025.02 - 2025.05 한성대학교 캡스톤디자인 기업연계(Qualcomm) [팀:무무]</p>
