@@ -8,7 +8,8 @@
 <div>
   <details>
     <summary>[2025. 05. 30] 한성대학교 캡스톤디자인 Qualcomm 기업연계 프로젝트 어플리케이션 부문 <strong>우수상</strong></summary>
-    <img src="https://github.com/brilliant13/portfolio/blob/de4d89a0985fe6e6414c813629501db92dd0055e/%5B%E1%84%8F%E1%85%AF%E1%86%AF%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%5D.jpg" width="400"/>
+    <img width="1199" height="1640" alt="KakaoTalk_20250711_164850663" src="https://github.com/user-attachments/assets/446a897c-3d2d-4008-9b48-d496a4d1f5f0" width="400"/>
+
   </details>
 </div>
 
@@ -37,7 +38,7 @@
     <img src="https://img.youtube.com/vi/Q0w4S_sMEaQ/0.jpg" width="400"/>
   </a>
 
-  <h4>🖥️ Demo Video</h4>
+  <h4>🖥️ llama-3b(eng).ver Video</h4>
   <a href="https://www.youtube.com/watch?v=r6AdiX7SZkw" target="_blank">
     <img src="https://img.youtube.com/vi/r6AdiX7SZkw/0.jpg" width="400"/>
   </a>
