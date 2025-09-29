@@ -3,12 +3,28 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=KimDongHyuk%20GitHub🌱&fontSize=60&fontColor=ffffff&animation=twinkling"/>
 </div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh367036)](https://solved.ac/kdh367036/)
+<img src="http://mazandi.herokuapp.com/api?handle=kdh367036&theme=cold" alt="mazandi"/>
+
+<br>
+
+### 🚀 Projects
+
+> ####  [**_BrainTrace_**](https://github.com/Qubit02/BrainTrace) <sub><sup> 2025.02 – ing</sup></sub>  
+  지식그래프를 활용한 지식 관리 앱
+ 
+<br>
+
 
 <h2>🏆 Achievements</h2>
 <div>
   <details>
     <summary>[2025. 05. 30] 한성대학교 캡스톤디자인 Qualcomm 기업연계 프로젝트 어플리케이션 부문 <strong>우수상</strong></summary>
     <img src="https://github.com/user-attachments/assets/446a897c-3d2d-4008-9b48-d496a4d1f5f0" width="400"/>
+  </details>
+    <details>
+    <summary>[2025. 05. 30] 한성대학교 공학경진대회 <strong>동상</strong></summary>
+    <img src="[https://github.com/user-attachments/assets/446a897c-3d2d-4008-9b48-d496a4d1f5f0](https://github.com/user-attachments/assets/e7433456-e3b2-4536-bc41-f7304a6e5384)" width="400"/>
   </details>
 </div>
 
