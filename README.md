@@ -7,8 +7,6 @@
   <a href="https://solved.ac/kdh367036/">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kdh367036" alt="Solved.ac Tier" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://mazandi.herokuapp.com/api?handle=kdh367036&theme=cold" alt="Algorithm Streak (mazandi)" />
 </div>
 
 
