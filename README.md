@@ -26,7 +26,7 @@
     <img src="https://github.com/user-attachments/assets/446a897c-3d2d-4008-9b48-d496a4d1f5f0" width="400"/>
   </details>
     <details>
-    <summary>[2025. 05. 30] 한성대학교 공학경진대회 <strong>동상</strong></summary>
+    <summary>[2025. 09. 26] 한성대학교 공학경진대회 <strong>동상</strong></summary>
     <img src="https://github.com/user-attachments/assets/e7433456-e3b2-4536-bc41-f7304a6e5384" width="400"/>
   </details>
 </div>
