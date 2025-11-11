@@ -22,12 +22,20 @@
 <h2>🏆 Achievements</h2>
 <div>
   <details>
+    <summary>[2025]오픈소스 개발자 대회 <strong>장려상(한국오픈소스협회 회장상)</strong></summary>
+    <img src="" width="400"/>
+  </details>
+  <details>
     <summary>[2025. 05. 30] 한성대학교 캡스톤디자인 Qualcomm 기업연계 프로젝트 어플리케이션 부문 <strong>우수상</strong></summary>
     <img src="https://github.com/user-attachments/assets/446a897c-3d2d-4008-9b48-d496a4d1f5f0" width="400"/>
   </details>
     <details>
     <summary>[2025. 09. 26] 한성대학교 공학경진대회 <strong>동상</strong></summary>
     <img src="https://github.com/user-attachments/assets/e7433456-e3b2-4536-bc41-f7304a6e5384" width="400"/>
+  </details>
+  <details>
+    <summary>[2025]오픈소스 개발자 대회 <strong>장려상(한국오픈소스협회 회장상)</strong></summary>
+    <img src="" width="400"/>
   </details>
 </div>
 
