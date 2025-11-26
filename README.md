@@ -22,7 +22,7 @@
 <h2>🏆 Achievements</h2>
 <div>
   <details>
-    <summary>[2025]오픈소스 개발자 대회 <strong>한국오픈소스협회 회장상</strong></summary>
+    <summary>[2025. 12. 05]오픈소스 개발자 대회 <strong>한국오픈소스협회 회장상</strong></summary>
     <img src="" width="400"/>
   </details>
   <details>
