@@ -24,6 +24,9 @@
   <details>
     <summary>[2025. 12. 05] 오픈소스 개발자 대회 <strong>한국오픈소스협회 회장상</strong></summary>
     <img src="https://github.com/user-attachments/assets/54279f9e-07e7-4e7e-b083-cf16c03e04bc" width="400"/>
+    <img src="[https://github.com/user-attachments/assets/54279f9e-07e7-4e7e-b083-cf16c03e04bc](https://github.com/user-attachments/assets/c774fe52-c41c-47d8-836b-45d1ef166e6d)" width="400"/>
+
+
   </details>
   <details>
     <summary>[2025. 05. 30] 한성대학교 캡스톤디자인 Qualcomm 기업연계 프로젝트 어플리케이션 부문 <strong>우수상</strong></summary>
