@@ -9,8 +9,6 @@
   </a>
 </div>
 
-https://github.com/Kimdonghyuk0/TrueDev-BackEnd-
-
 ### 🚀 Projects
 
 > ####  [**_BrainTrace_**](https://github.com/Qubit02/BrainTrace) <sub><sup> 2025.02 –  2025.10</sup></sub>  
