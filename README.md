@@ -9,24 +9,29 @@
   </a>
 </div>
 
-
+https://github.com/Kimdonghyuk0/TrueDev-BackEnd-
 
 ### 🚀 Projects
 
-> ####  [**_BrainTrace_**](https://github.com/Qubit02/BrainTrace) <sub><sup> 2025.02 – ing</sup></sub>  
+> ####  [**_BrainTrace_**](https://github.com/Qubit02/BrainTrace) <sub><sup> 2025.02 –  2025.10</sup></sub>  
   지식그래프를 활용한 지식 관리 앱
+  
+> ####  [**_TrueDev_**](https://github.com/Kimdonghyuk0/TrueDev-BackEnd-) <sub><sup> 2025.11.24~2025.12.9</sup></sub>  
+  가짜정보 없는 개발자 커뮤니티
  
 <br>
 
 
 <h2>🏆 Achievements</h2>
 <div>
+    <details>
+    <summary>[2025. 12. 12] 카카오 테크 부트캠프 부하테스트<strong>최우수상</strong></summary>
+    <img src=""  width="400"/>
+  </details>
   <details>
     <summary>[2025. 12. 05] 오픈소스 개발자 대회 <strong>한국오픈소스협회 회장상</strong></summary>
     <img src="https://github.com/user-attachments/assets/09b02db5-85fd-436a-a36d-37ed12d70c65"  width="400"/>
      <br> <img src="https://github.com/user-attachments/assets/54279f9e-07e7-4e7e-b083-cf16c03e04bc" width="400"/>
-
-
   </details>
   <details>
     <summary>[2025. 05. 30] 한성대학교 캡스톤디자인 Qualcomm 기업연계 프로젝트 어플리케이션 부문 <strong>우수상</strong></summary>
@@ -55,6 +60,15 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+  <h2>📜 Certifications</h2>
+  <img src="https://img.shields.io/badge/정보처리기사-2025.12.24-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SQLD-2024.06.21-orange?style=flat-square"/>
 </div>
 
 <br/>
