@@ -83,11 +83,3 @@
 
 <br/>
 
-<div align="center">
-  <h2>🏅 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kimdonghyuk0&show_icons=true&theme=radical&hide_border=true&bg_color=00000000"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kimdonghyuk0&theme=radical&hide_border=true&background=00000000"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimdonghyuk0&layout=compact&theme=radical&hide_border=true&bg_color=00000000"/>
-</div>
