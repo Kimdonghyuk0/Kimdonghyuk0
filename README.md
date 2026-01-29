@@ -14,7 +14,7 @@
 > ####  [**_BrainTrace_**](https://github.com/Qubit02/BrainTrace) <sub><sup> 2025.02 –  2025.10</sup></sub>  
   지식그래프를 활용한 지식 관리 앱
   
-> ####  [**_TrueDev_**](https://github.com/Kimdonghyuk0/TrueDev-BackEnd-) <sub><sup> 2025.11.24~2025.12.9</sup></sub>  
+> ####  [**_TrueDev_**](https://github.com/Kimdonghyuk0/TrueDev-BackEnd) <sub><sup> 2025.11.24~2025.12.9</sup></sub>  
   가짜정보 없는 개발자 커뮤니티
  
 <br>
