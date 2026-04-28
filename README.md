@@ -10,7 +10,7 @@
 </div>
 
 ### 🚀 Projects
-> ####  [**모여밥**](https://github.com/orgs/100-hours-a-week/teams/13/repositories)(https://github.com/Kimdonghyuk0/MoyeoBAB) <sub><sup> 2025.12~2026.04</sup></sub>  
+> ####  [**모여밥**](https://github.com/Kimdonghyuk0/MoyeoBAB) <sub><sup> 2025.12~2026.04</sup></sub>  
   모임 대상 식당 추천 앱
 
 
