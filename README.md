@@ -27,7 +27,8 @@
 <div>
     <details>
     <summary>[2025. 12. 12] 카카오 테크 부트캠프 부하테스트<strong>최우수상</strong></summary>
-  ![Uploading KakaoTalk_Photo_2026-07-13-12-21-46.jpeg…]()
+<img width="400" height="400" alt="KakaoTalk_Photo_2026-07-13-12-21-46" src="https://github.com/user-attachments/assets/94f74bb2-c47e-495a-8a50-5d4c5011b613" />
+
 
   </details>
   <details>
