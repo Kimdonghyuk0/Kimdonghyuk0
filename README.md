@@ -27,6 +27,8 @@
 <div>
     <details>
     <summary>[2025. 12. 12] 카카오 테크 부트캠프 부하테스트<strong>최우수상</strong></summary>
+  ![Uploading KakaoTalk_Photo_2026-07-13-12-21-46.jpeg…]()
+
   </details>
   <details>
     <summary>[2025. 12. 05] 오픈소스 개발자 대회 <strong>한국오픈소스협회 회장상</strong></summary>
